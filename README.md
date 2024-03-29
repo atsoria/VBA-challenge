@@ -5,7 +5,7 @@ Challenge 2
 Objective of this assignment is to proove VBA skill proficiency through analyzing stock market data.
 
 ## Visuals
-"Screenshot" of the first sheet uploaded.
+"Screenshot.png" is uploaded and depicts a screenshot of the first sheet in the worksheet with the provided code executed.
 
 ## Authors and acknowledgment
 Most code was supported through class materials.
